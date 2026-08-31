@@ -1,0 +1,6 @@
+| strategy | accuracy | judge_score | latency | cost |
+| :--- | :--- | :--- | :--- | :--- |
+| cot_prompt | 0.96667 | 4.4 | 1.4644 | 0.001232 |
+| few_shot | 0.90001 | 4.4 | 1.5976 | 0.001456 |
+| structured_prompt | 0.96667 | 4.5 | 1.2876 | 0.001099 |
+| zero_shot | 0.93334 | 4.5 | 1.6477 | 0.000944 |
